@@ -1,6 +1,6 @@
 cask "needle" do
-  version "0.3.2"
-  sha256 "484a16926847f7923a58303caa44bdec2116ad8d4a98e2c83875832600390672"
+  version "0.4.0"
+  sha256 "47a80e5c67f19c0f8dda8bb29e143e1ccbcd2846ae3da90362e5d5943b6db798"
 
   url "https://github.com/chnozmn-pixel/Needle/releases/download/v#{version}/Needle-#{version}.zip",
       verified: "github.com/chnozmn-pixel/Needle/"
